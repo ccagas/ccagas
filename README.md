@@ -1,5 +1,5 @@
 - 👋 Hi!
-- 👀 Seeking internship as Software Developer
+- 👀 Seeking Software Developer internship/co-op
 - 🌱 Upcoming grad of Software Development at Red River College
 - 💞️ This page includes school assignments and personal projects.     
 
